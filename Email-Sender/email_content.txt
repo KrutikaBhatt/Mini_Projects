@@ -1,0 +1,16 @@
+Dear ${PERSON_NAME},
+
+This is a remainder for the registered seminar.We have mentioned the details below :-
+
+Timing : ${TIMING}
+Speaker :${SPEAKER}
+
+Pass number : ${PASS_NO}
+Number of member : ${MEMBERS}
+Theater set : ${THEATER}
+Seat number : ${SEAT_NO}
+
+
+
+
+
